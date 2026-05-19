@@ -1,3 +1,11 @@
+// Components are the building blocks of React. A component is just a function 
+// that returns JSX. Props let you pass data from a parent component to a child.
+// Key Concepts
+// Components must start with an uppercase letter
+// Props are passed like HTML attributes: <Greeting name="Alice" />
+// Inside the component, access them via the function parameter: function Greeting({ name })
+// Props are read-only — never modify them
+
 // Your Task
 // Create a UserCard component that accepts name and role props
 // Render an <h2> with the name

@@ -1,3 +1,5 @@
+//JSX looks like HTML but lives inside JavaScript. Under the hood, <h1>Hello</h1> becomes React.createElement('h1', null, 'Hello').
+
 // Your Task
 // Create an App component that renders:
 
